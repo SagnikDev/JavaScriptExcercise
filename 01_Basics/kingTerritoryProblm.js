@@ -1,10 +1,10 @@
-// let king='John'
+let king='John'
 
 if (true) {
-    // let king='Sam'
+    let king='Sam'
 
     if (true) {
-        king ='Joy'
+        //king ='Joy'
         console.log(king);
         
     }

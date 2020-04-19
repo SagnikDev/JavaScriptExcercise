@@ -1,7 +1,7 @@
-// let tempInFarenheit=100
+let tempInFarenheit = 100;
 
-// //Do Calculations
+//Do Calculations
 
-// let celsius= (tempInFarenheit-32)* 5/9
+let celsius = ((tempInFarenheit - 32) * 5) / 9;
 
-// console.log(celsius)
+console.log(celsius);

@@ -1,13 +1,13 @@
-let temp
+let temp;
 
-console.log("The current temperatue is : " + temp)
+console.log("The current temperatue is : " + temp);
 
-let grade=true
+let grade = true;
 
-console.log(grade)
+console.log(grade);
 
-grade=10
+grade = 10;
 
-let myGrade= (grade==7)
+let myGrade = grade == 7;
 
-console.log(myGrade)
+console.log(myGrade);

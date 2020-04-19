@@ -1,10 +1,10 @@
-console.log(2===2.00);
+console.log(2 === 2.0);
 
-let a={}
-let b={}
+let a = {};
+let b = {};
 
-console.log(a===b);
+console.log(a === b);
 
-b=a
+b = a;
 
-console.log(a==b);
+console.log(a == b);
